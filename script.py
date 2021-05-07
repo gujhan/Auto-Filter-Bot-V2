@@ -3,13 +3,12 @@ class script(object):
 
     START_MSG = """ <b>Hi {}
 
-You can call this as an Auto Filter Bot if you like :D
+Am Just A Advance Auto Filter Bot....😉
 
-This is Version 2 of Auto Filter Bot
+I have 4m movies 🔥🔥😝
 
-Bot gives button link to files in connected channels on query !
-
-No need to add filters for your files or movies from now on!
+For More movies first update & Upload..
+@Tentkotta_Tamil
 
 For more click <i>help</i></b>"""
 
@@ -56,14 +55,14 @@ Bot will automatically search for your files and give links to that!
 <b>© @TroJanzHEX</b>"""
 
 
-    ABOUT_MSG = """⭕️<b>My Name : Auto Filter Bot V2</b>
+    ABOUT_MSG = """⭕️<b>My Name : Professor</b>
     
-⭕️<b>Creater :</b> @TroJanzHEX
+⭕️<b>Creater :</b> @Thalapathy_off
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
 ⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
 
-⭕️<b>Tutorial Video :</b> <a href='https://youtu.be/KQVYQAOsFYY'>Video Link</a> 
+⭕️<b>Channel :</b> <a href='https://t.me/Tamil_Tentkotta'>@Tentkotta_Tamil</a> 
 
 """
